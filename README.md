@@ -7,4 +7,4 @@ Currently i've been dedicating time and foccussing on learn more about Web Devel
 -> <a href="https://www.linkedin.com/in/linna2vezes">LinkedIn</a> </br>
 ->  <a href="https://www.behance.net/linna2vezes"> Design Projects at my Behance Page </a></br>
 ->  <a mailto="https://www.behance.net/linna2vezes">linna2vezes@gmail.com </a></br>
--> <a href="https:https://linna2vezes.github.io/"> My GitHub.io </a>
+-> <a href="https://linna2vezes.github.io/"> My GitHub.io </a>
